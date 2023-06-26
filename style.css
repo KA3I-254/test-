@@ -1,0 +1,7 @@
+.bg-image{
+    background-image: url('./images/working-computer-background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+}
